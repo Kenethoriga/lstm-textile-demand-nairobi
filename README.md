@@ -1,3 +1,4 @@
+---
 
 # Forecasting Second-Hand Textile Demand and Associated Waste Generation Using Recurrent Neural Networks in Nairobi County
 
@@ -54,13 +55,10 @@ View the full code and model here:
 
 ## 👥 Authors
 - Mutune Carole  
-- Munini Annabel  
-- Wahu David  
-- Gacheru Jeremiah  
-- Muutu Mbunu  
+- Wahu Annabel  
+- Gacheru David  
+- Jeremiah Mbunu  
 - **Keneth Origa**  
 - Supervisor: Dr. Benjamin Muema
 
 ---
-
-Would you like this turned into a downloadable `.md` file or hosted with GitHub Pages?
